@@ -1,0 +1,6 @@
+Apps/Git/**
+Apps/VSCode-win32-x64/**
+
+# VS Code
+profile/.vscode/extensions/**
+profile/.vscode/argv.json
